@@ -1,3 +1,9 @@
+### Coding task
+A coding task for an interview. I had to write an app to do a search on Google Books API and return the result in the GUI in
+2 hours. The following is the result. The UI is complete crap (just a list of RecycleView Cards) since that was not the focus of test. 
+
+NOTE: I deactived the API key as of now, so it is not going to work until you add a real Google Books API key and recompile.
+
 ### External Dependencies
 
 * Volley - Volley is the HTTP library used for networking. It handles both the REST GET call
